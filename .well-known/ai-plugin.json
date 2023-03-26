@@ -3,7 +3,7 @@
   "name_for_model": "Canva_help_articles",
   "name_for_human": "Canva help articles",
   "description_for_model": "Use this tool to get up to date information about how to use Canva to create, update, publish, print and download your design. Also to find troubleshooting inforation about Canva.",
-  "description_for_human": "up to date information about how to use Canva to create, update, publish, print and download your design. Also to find troubleshooting inforation about Canva.",
+  "description_for_human": "up to date information about how to use Canva.",
   "auth": {
     "type": "user_http",
     "authorization_type": "bearer"
